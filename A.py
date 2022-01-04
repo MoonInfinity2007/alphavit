@@ -1,0 +1,11 @@
+def A():
+    print("        #        ")
+    print("       # #       ")
+    print("      #   #      ")
+    print("     #     #     ")
+    print("    #       #    ")
+    print("   #         #   ")
+    print("  #############  ")
+    print(" #             # ")
+    print("#               #")
+A()
