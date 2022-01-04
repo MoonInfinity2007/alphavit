@@ -1,0 +1,11 @@
+def B():
+    print("   #######     ")
+    print("   #      #    ")
+    print("   #       #   ")
+    print("   #      #    ")
+    print("   #######     ")
+    print("   #      #    ")
+    print("   #       #   ")
+    print("   #      #    ")
+    print("   #######     ") 
+B()
